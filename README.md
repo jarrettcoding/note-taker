@@ -10,7 +10,7 @@ A simple online platform allowing users to take quick notes
 * Express.js
 
 ## Website
-
+https://jarrettcoding.github.io/note-taker/
 
 ## Contribution
 Jarrett F. 
